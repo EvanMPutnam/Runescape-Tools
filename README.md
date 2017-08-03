@@ -1,6 +1,6 @@
 # Runescape-Tools
-These are tools and/or formulas I use for runescape.
+These are tools and/or formulas I use while playing Runescape.
 
 Items:
-  Grand Exchange Toolset(Prices and Trends)
-  Experience Calculators
++ Grand Exchange Toolset(Prices and Trends)
++ Experience Calculators
